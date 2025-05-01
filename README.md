@@ -16,13 +16,15 @@ Assignment 1: Design Your Class! 🏗
 
 
 1. Car Refuel Advisory Program
-Files
+   
+    Files
 
         vehicleFxn.py — Contains class definitions for Car and ElectricCar.
         
         finalMain.py — Main file that handles user input and simulates trip logic.
 
-Description
+    Description:
+   
   This script:
      
     Models a list of cars (including electric ones).
@@ -52,6 +54,7 @@ How to Run
 
 
 2. Vehicle Movement (Polymorphism Demo)
+   
       Files
       
         vehicleFxn.py — Contains a base Vehicle class and four subclasses: Car, Plane, Boat, and Bicycle.
@@ -59,6 +62,7 @@ How to Run
         vehicleMain.py — Lets the user choose a vehicle and displays how it moves.
 
     Description
+   
     This interactive script:
     
         Lists four vehicles.
