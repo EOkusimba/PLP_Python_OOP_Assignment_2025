@@ -1,4 +1,3 @@
-# vehicleMain.py
 
 from finalFxn import Car, ElectricCar
 
